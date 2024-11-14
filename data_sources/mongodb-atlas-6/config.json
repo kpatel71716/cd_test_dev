@@ -2,7 +2,7 @@
     "name": "mongodb-atlas-6",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "DevSBCluster",
+        "clusterName": "AtlasCluster",
         "readPreference": "primary",
         "wireProtocolEnabled": false
     },
