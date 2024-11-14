@@ -1,5 +1,5 @@
 {
-    "name": "mongodb-atlas",
+    "name": "mongodb-atlas-2",
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "AtlasCluster",
